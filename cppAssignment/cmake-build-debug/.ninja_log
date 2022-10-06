@@ -1,0 +1,16 @@
+# ninja log v5
+9	204	6867770252519422	CMakeFiles/cppAssignment.dir/DDay/Common.cpp.obj	14ab1a2c920f052f
+40	1165	6867770262159442	CMakeFiles/cppAssignment.dir/DDay/DDay.cpp.obj	e96da75417e01ff5
+8	728	6867778660678082	CMakeFiles/cppAssignment.dir/Money/Money.cpp.obj	2e5b369b7d9b41c2
+23	340	6867770253899419	CMakeFiles/cppAssignment.dir/Fraction/Util.cpp.obj	bbea4bbee092ff53
+5	398	6867779843921271	CMakeFiles/cppAssignment.dir/SentenceProcessing/StringApp.cpp.obj	b601f2bcae0cb9d4
+0	716	6867778660558076	CMakeFiles/cppAssignment.dir/Money/main.cpp.obj	34c0ac02edce732a
+156	1300	6867758963351158	CMakeFiles/cppAssignment.dir/main.cpp.obj	3eb0acbf04799ec2
+16	1158	6867770262089448	CMakeFiles/cppAssignment.dir/Fraction/Fraction.cpp.obj	4f0179f42b6da9d5
+1	1360	6867770264139405	CMakeFiles/cppAssignment.dir/DDay/Day.cpp.obj	f5f2904e0368b457
+6	372	6867788203329021	CMakeFiles/cppAssignment.dir/Matrix/Matrix.cpp.obj	eae0759b5bad2b9
+2	330	6867790700383259	build.ninja	ab3f260d11a4aa8a
+0	763	6867765391781248	CMakeFiles/Money_main.dir/Money/main.cpp.obj	996d3798cea24d49
+2	306	6867788202669028	CMakeFiles/cppAssignment.dir/Matrix/MatrixApp.cpp.obj	4eda40742302c6f9
+372	470	6867788204279024	cppAssignment.exe	62a2226e9fd0c71e
+4	643	6867776056214650	CMakeFiles/SentenceProcessing_StringApp.dir/SentenceProcessing/StringApp.cpp.obj	2f1896c393d8f3e9

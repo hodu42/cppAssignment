@@ -1,0 +1,3 @@
+C:/Users/hodu42/CLionProjects/cppAssignment/cmake-build-debug/CMakeFiles/cppAssignment.dir
+C:/Users/hodu42/CLionProjects/cppAssignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hodu42/CLionProjects/cppAssignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
